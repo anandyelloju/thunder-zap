@@ -1,16 +1,11 @@
 # ThunderZap - Weather App
 
 A simple weather application built with React.js, Vite, and Tailwind CSS. It allows users to search for current weather information by city.
-<!-- 
-## Live Demo
-
-[Live Demo - Weather App](https://your-live-demo-link.com)
-
+ 
+**Live Demo -** [Weather App](thunder-zap.vercel.app/)
+<!--
 ## Table of Contents
 
-- [Title and Description](#title-and-description)
-- [Demo link](#demo-link)
-- [Table of Contents](#table-of-contents)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
