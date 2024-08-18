@@ -3,7 +3,7 @@
 A simple weather application built with React.js, Vite, and Tailwind CSS. It allows users to search for current weather information by city.
  
 **Live Demo -** [Weather App](thunder-zap.vercel.app/)
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -14,7 +14,7 @@ A simple weather application built with React.js, Vite, and Tailwind CSS. It all
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![Homepage](screenshots/homepage.png)
