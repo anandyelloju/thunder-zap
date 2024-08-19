@@ -14,13 +14,11 @@ A simple weather application built with React.js, Vite, and Tailwind CSS. It all
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](screenshots/homepage.png)
-![Weather Search](screenshots/weather-search.png)
-![Weather Display](screenshots/weather-display.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
