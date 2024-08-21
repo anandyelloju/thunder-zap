@@ -17,7 +17,7 @@ A simple weather application built with React.js, Vite, and Tailwind CSS. It all
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage](public/homeUI.png)
 
 ## Installation
 
@@ -25,12 +25,12 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-     git clone https://github.com/anandyelloju/weather-app.git
+     git clone https://github.com/anandyelloju/thunder-zap.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-     cd weather-app
+     cd thunder-zap
     ```
 3. Install the dependencies:
     ```bash
@@ -40,14 +40,14 @@ To set up this project locally, follow these steps:
     ```bash
      npm run dev
     ```
-<!--
+
 ## Usage
 
 After installation, you can run the project locally using the development server. The app includes several sections:
 
 - **Search Bar:** Enter a city name to get the current weather information.
 - **Weather Display:** Shows the temperature, weather description, and city name.
-
+<!--
 ## Features
 
 - **Search for Current Weather:** Get current weather information for any city.
