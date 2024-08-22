@@ -47,13 +47,13 @@ After installation, you can run the project locally using the development server
 
 - **Search Bar:** Enter a city name to get the current weather information.
 - **Weather Display:** Shows the temperature, weather description, and city name.
-<!--
+
 ## Features
 
 - **Search for Current Weather:** Get current weather information for any city.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Real-Time Data:** Fetches live weather data from OpenWeatherMap API.
-
+<!--
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
