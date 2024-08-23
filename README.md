@@ -27,7 +27,6 @@ To set up this project locally, follow these steps:
     ```bash
      git clone https://github.com/anandyelloju/thunder-zap.git
     ```
-
 2. Navigate to the project directory:
     ```bash
      cd thunder-zap
@@ -53,7 +52,7 @@ After installation, you can run the project locally using the development server
 - **Search for Current Weather:** Get current weather information for any city.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Real-Time Data:** Fetches live weather data from OpenWeatherMap API.
-<!--
+
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
@@ -61,8 +60,8 @@ After installation, you can run the project locally using the development server
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 - **OpenWeatherMap API:** API for fetching weather data.
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,,vscode,github)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,,vscode,github,vercel)](https://skillicons.dev)
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
