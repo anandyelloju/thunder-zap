@@ -61,11 +61,11 @@ After installation, you can run the project locally using the development server
 - **OpenWeatherMap API:** API for fetching weather data.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,,vscode,github,vercel)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 - **React.js:** For providing a robust framework for building UI.
 - **Vite:** For fast and efficient development tooling.
