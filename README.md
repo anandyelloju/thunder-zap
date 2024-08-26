@@ -72,9 +72,7 @@ Contributions are always welcome! - If you have suggestions or improvements.
 - **Tailwind CSS:** For a flexible and customizable styling framework.
 - **OpenWeatherMap API:** For providing weather data.
 - [Anand Yelloju](https://github.com/anandyelloju) - Project Creator
-<!--
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/weather-app/blob/main/LICENSE) file for details.
-
--->
